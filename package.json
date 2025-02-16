@@ -1,7 +1,7 @@
 {
-  "name": "crypto-pattern-finder",
+  "name": "trade-finder",
   "version": "1.0.0",
-  "description": "Cryptocurrency candlestick pattern finder",
+  "description": "Cryptocurrency candlestick pattern trade finder",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
